@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python Full stack Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/shiva-gupta-dev
+- 📫 How to reach me www.linkedin.com/in/shiva-gupta1011
 
 
 <!---
