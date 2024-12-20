@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shiva0321
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python Full stack Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Python Full stack Developer.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me www.linkedin.com/in/shiva-gupta1011
 
 
